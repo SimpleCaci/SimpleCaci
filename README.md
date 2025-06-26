@@ -13,3 +13,9 @@ More coming soon — stay tuned!
 
 ## 📫 Contact
 📧 simplesimpleemailemail@gmail.com
+
+## 📁 Lost Projects
+- Terminal Text RPG – Java (2022)  
+- Drawing App – JS + Canvas (2023)  
+- Chatbot V1 – Python (2021)  
+
