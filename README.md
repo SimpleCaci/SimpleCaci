@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @SimpleCaci
-- 👀 I’m interested in Comp Sci
-- 🌱 I’m currently learning JS and web development
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me ... Discord: Monsieur_Cactus_Cat#3946
+# Hi there
 
-<!---
-SimpleCaci/SimpleCaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS & Business @ UCR  
+Full-Stack Developer | 3rd Place - Turion Space Hackathon 🚀  
+Currently learning React + Firebase | Building things that solve real problems
+
+## 🛠️ Tech Stack
+- Languages: Java, JavaScript, Python
+- Tools: React, Firebase, Git, Figma, p5.js
+
+## 🚧 Projects
+More coming soon — stay tuned!
+
+## 📫 Contact
+📧 simplesimpleemailemail@gmail.com
