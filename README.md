@@ -1,6 +1,6 @@
 # Hi there
 
-CS & Business @ UCR  
+CS & Business
 Full-Stack Developer | 3rd Place - Turion Space Hackathon 🚀  
 Currently learning React + Firebase | Building things that solve real problems
 
