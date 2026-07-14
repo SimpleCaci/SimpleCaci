@@ -1,134 +1,72 @@
-# Hi there,
+# Hi, I'm SimpleCaci
 
-CS & Business Student | Full-Stack Software Engineer | AI + Computer Vision Builder  
-3rd Place — **Turion Space Hackathon**  
-Best Gemini AI Usage — **Cutie Hackathon**  
-Building ambitious, human-centered systems at the intersection of **software, AI, and real-world impact**.
+Computer Science and Business Administration student building practical, human-centered software across full-stack development, computer vision, automation, and data-informed products.
 
----
+I enjoy taking an idea from an early prototype to something people can understand, run, and improve. My strongest work combines technical implementation with product thinking: clear workflows, useful feedback, and honest project scope.
 
-## About Me
+## Featured work
 
-- Studying **Computer Science & Business Administration**
-- Full-Stack SWE with strong foundations in **systems, AI, and product-building**
-- Currently involved in **ACM Spark**
-- Seeking **Software Engineering / Full-Stack / AI internship opportunities**
-- Passionate about technology supporting **agriculture, biology, sustainability, and human well-being**
+### [Turion Hackathon 2025](https://github.com/SimpleCaci/Turion-Hackathon-2025)
 
----
+A space-data project combining Flask, astronomy data, image matching, and Gemini-assisted mission summaries. The project placed third at the Turion Space Hackathon.
 
-## Core Interests
+`Python` · `Flask` · `Astroquery` · `OpenCV` · `Gemini API`
 
-- Full-Stack Engineering  
-- Artificial Intelligence + Applied Machine Learning  
-- Computer Vision (pose, gesture, tracking)  
-- Agricultural Tech + Bio-Inspired Systems  
-- Human-Centered Product Design  
-- Low-Level Computing & Systems Programming  
-- Automation tools that remove friction  
+### [Gesture-Reactive Avatar](https://github.com/SimpleCaci/Gesture-Reactive-Avatar)
 
----
+A real-time avatar system that maps face and hand landmarks to expression changes.
 
-## Tech Stack
+`Python` · `MediaPipe` · `OpenCV` · `Computer Vision`
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict%20Typing-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-Systems%20%26%20DSA-purple)
-![C](https://img.shields.io/badge/C-Low%20Level-gray)
-![Java](https://img.shields.io/badge/Java-OOP-red)
-![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey)
-![LC3 Assembly](https://img.shields.io/badge/LC--3%20Assembly-Computer%20Architecture-black)
-![Bash](https://img.shields.io/badge/Bash-Scripting-darkgreen)
+### [HandwritingConverter](https://github.com/SimpleCaci/HandwritingConverter)
 
----
+A tested command-line OCR pipeline for turning one or more handwriting images into text and printable PDFs.
 
-### Frontend  
-![React](https://img.shields.io/badge/React-Modern%20UI-cyan)
-![Next.js](https://img.shields.io/badge/Next.js-Full%20Stack-black)
-![HTML5](https://img.shields.io/badge/HTML5-Web-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility%20First-teal)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive-purple)
-![p5.js](https://img.shields.io/badge/p5.js-Creative%20Coding-pink)
+`Python` · `Tesseract OCR` · `OpenCV` · `PyMuPDF`
 
----
+### [VoxNav](https://github.com/SimpleCaci/VoxNav)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express.js](https://img.shields.io/badge/Express.js-Web%20Server-lightgrey)
-![FastAPI](https://img.shields.io/badge/FastAPI-Python%20APIs-teal)
-![Flask](https://img.shields.io/badge/Flask-Web%20Framework-gray)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%20%26%20Database-yellow)
-![REST APIs](https://img.shields.io/badge/REST%20API-Integration-darkgrey)
+A Windows voice-navigation assistant with explicit command parsing and safer application launching.
 
----
+`Python` · `Speech Recognition` · `Windows Automation`
 
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![SQLite](https://img.shields.io/badge/SQLite-Lightweight-lightgrey)
+### [Ambient Dashboard](https://github.com/SimpleCaci/ambient-dashboard)
 
----
+A calm desktop dashboard with a live clock and locally persisted daily priorities.
 
-### Cloud & Deployment  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Vercel](https://img.shields.io/badge/Vercel-Hosting-black)
-![Render](https://img.shields.io/badge/Render-Deployment-purple)
-![Linux](https://img.shields.io/badge/Linux-CLI-lightgrey)
+`React` · `TypeScript` · `Tauri` · `Vite`
 
----
+### [Rose Hackathon 2026](https://github.com/SimpleCaci/Rose-Hackathon-2026)
 
-### AI / Computer Vision  
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose%20%26%20Gesture-orange)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Applications-purple)
-![OCR](https://img.shields.io/badge/OCR-Handwriting%20Recognition-darkblue)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-darkblue)
+A browser-based yoga pose matching prototype backed by MediaPipe landmarks and a FastAPI service.
 
----
+`JavaScript` · `MediaPipe` · `FastAPI` · `Python`
 
-### Developer Tools  
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-Dev%20Environment-blue)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-C%2B%2B%20Testing-darkgreen)
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-pink)
+## Technical toolkit
 
----
+- **Languages:** Python, JavaScript, TypeScript, C++, SQL, HTML, and CSS
+- **Frontend:** React, responsive web interfaces, Canvas, and p5.js
+- **Backend:** FastAPI, Flask, Node.js, Express, and REST APIs
+- **Applied computing:** OpenCV, MediaPipe, OCR, NumPy, pandas, and scikit-learn
+- **Tools:** Git, GitHub, Linux, Vite, Tauri, Godot, and Figma
 
-## Featured Projects
+## What I'm exploring
 
-**Gesture-Reactive Avatar**  
-Real-time face + hand tracking system that swaps avatar expressions live  
-![Python](https://img.shields.io/badge/Python-blue) ![MediaPipe](https://img.shields.io/badge/MediaPipe-orange)
+- Backend and full-stack systems for real users
+- Data systems, business intelligence, and optimization
+- Geospatial and sustainability-focused products
+- Computer vision and accessible human-computer interaction
+- Small automation tools that remove everyday friction
 
-**HandwritingConverter**  
-OCR pipeline that converts handwriting into clean printable PDFs  
-![OpenCV](https://img.shields.io/badge/OpenCV-green) ![OCR](https://img.shields.io/badge/OCR-darkblue)
+## Beyond the code
 
-**Stop-Time-Blindness**  
-Mindfulness + productivity tool to reduce unconscious scrolling  
-![Next.js](https://img.shields.io/badge/Next.js-black)
-
-Hackathon prototypes in AI, automation, and rapid full-stack builds
-
----
-
-## Communities
-
-- ACM Spark @ UCR  
-- Hackathon competitor + project builder  
-
----
+- Computer Science and Business Administration student
+- ACM Spark participant
+- Hackathon competitor and project builder
+- Open to software engineering, backend, full-stack, and applied AI internship opportunities
 
 ## Contact
 
 Email: **simplesimpleemailemail@gmail.com**
 
----
-
-Always open to collaboration, internships, and ambitious engineering projects.
+I'm always interested in thoughtful projects, useful tools, and teams that care about both engineering quality and the people using the product.
